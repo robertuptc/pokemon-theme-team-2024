@@ -1,0 +1,33 @@
+#main-pokemon-image{
+    width: 200px;
+    height: 200px;
+}
+
+#pokemon-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#pokemon-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+#pokemon-img{
+    width: 80px;
+    height: 80px;
+}
+
+#main-pokemon-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
